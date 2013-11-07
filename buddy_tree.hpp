@@ -1,7 +1,7 @@
 #pragma once
 
 #pragma pack(1)
-struct phys_addr {
+struct phys_mem {
 	unsigned long long addr;
 };
 
